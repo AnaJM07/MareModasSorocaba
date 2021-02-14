@@ -1,0 +1,115 @@
+a{
+  text-decoration: none;  
+  font-family: Arial, Helvetica, sans-serif;
+  color: 00BFFF;
+}
+ul{
+    margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#483D8B;
+  float:inline-end;
+  
+  
+}
+li{
+  display: inline-block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+.localizacao{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;  
+  color: darkslategrey;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+table,td,th{
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+}
+.vestuario{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.sobre{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.calcados{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.parceiras{
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.introducao{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.mare img{
+  max-width:300px;
+  max-height:250px;
+  width: auto;
+  height: auto;
+}
+.instagram img{
+  max-width: 50px;
+  max-height: 25px;
+  width: auto;
+  height: auto;
+}
+
+.vestuario img{
+  max-width: 300px;
+  max-height: 250px;
+  width: auto;
+  height: auto;
+}
+.calcados img{
+  align-items:  initial;
+  max-width: 300px;
+  max-height: 250px;
+  width: auto;
+  height: auto;
+}
+.horario{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+
+.descontos{
+  text-align: center;
+  color: black;
+}
+.localizacao img{
+  max-width: 50px;
+  max-height: 25px;
+  width: auto;
+  height: auto; 
+}
+.instagram a{
+  color:black;
+  text-decoration: underline;
+}
+.localizacao a{
+  color:black;
+  text-decoration: underline;
+}
